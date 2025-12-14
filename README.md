@@ -16,7 +16,7 @@ or directly type one of the samples in the terminal:
 ```
 python path_finding.py NY OR
 ```
-If there are not enough or too many input arguments, an error will be raised. Similarly, if the input is not in the data, it will also pop up an error.
+If there are not enough or too many input arguments, an error will be raised. Similarly, if the input is not in the data or there is no solution, it will also pop up an error.
 
 # Results
 ![result1](./images/result.png) <br>
