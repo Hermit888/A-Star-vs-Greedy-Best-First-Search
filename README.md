@@ -6,7 +6,7 @@ Assume that edge weights represent driving distances between state capitals. The
 # Documents
 There are two Excel documents: `driving.csv` and `straightline.csv`. The `driving.csv` records the actual distances between two states. If the data is -1, that means there is no path between two states. The `straightline.csv` file contains the straight-line distances between two states.
 
-# How to Use
+# Implement
 Following the basic command below in the terminal:
 ```
 python path_finding.py GOAL INIT
